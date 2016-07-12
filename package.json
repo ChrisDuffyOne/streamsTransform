@@ -1,0 +1,15 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "A sample of stream data",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "Stream",
+    "test"
+  ],
+  "author": "Christopher Duffy",
+  "license": "ISC"
+}
